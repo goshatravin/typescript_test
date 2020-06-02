@@ -8,7 +8,7 @@ This repository is created for educational purposes.
 
 In the project directory, you can run:
 
-#### `make install`
+##### `make install`
 
 To install all dependencies
 
