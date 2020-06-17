@@ -1,7 +1,6 @@
 import * as React from 'react';
+import LoginContainer from '../src/containers/LoginContainer';
+import OmniContainer from '../src/containers/OmniContainer';
 
-export interface AppProps {}
-
-const App: React.SFC<AppProps> = () => <p>Hello, Typescript</p>;
-
+const App: React.FC = () => <OmniContainer />;
 export default App;
